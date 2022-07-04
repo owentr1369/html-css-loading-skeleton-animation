@@ -2,4 +2,6 @@
 
 HTML CSS Loading Skeleton Animation Effects
 
-<img width="919" alt="Screen Shot 2022-07-04 at 11 06 06" src="https://user-images.githubusercontent.com/97748602/177079968-d241c235-8495-43ef-bf67-e3bafa108c45.png">
+Demo: 
+
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/97748602/177080489-ae167126-cfc4-4384-8cba-57e6b9b07669.gif)
